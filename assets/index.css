@@ -1,0 +1,36 @@
+.pai{
+    display: flex;
+    height: 300px ;
+    width:100% ;
+    
+}
+
+.filha{
+    margin: auto;
+
+}
+.form-control-plaintext{
+    font-size:larger;
+    
+}
+.errado{
+    color: #ffffff; /* Cor do texto em branco */
+    background-color: #ff4c4c; /* Fundo vermelho */
+    border: 1px solid #d43f3a; /* Borda vermelha escura */
+    padding: 10px; /* Espaçamento interno para o texto */
+    border-radius: 5px; /* Bordas arredondadas */
+    font-weight: bold; /* Texto em negrito */
+    text-align: center; /* Centraliza o texto */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra leve para dar destaque */
+}
+
+.sucesso {
+    color: #ffffff; /* Cor do texto em branco */
+    background-color: #28a745; /* Fundo verde */
+    border: 1px solid #218838; /* Borda verde escura */
+    padding: 10px; /* Espaçamento interno para o texto */
+    border-radius: 5px; /* Bordas arredondadas */
+    font-weight: bold; /* Texto em negrito */
+    text-align: center; /* Centraliza o texto */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra leve para dar destaque */
+}
